@@ -1,4 +1,6 @@
 # vim-config
+
+## Overview
 This repository contains my personal configuration for Vim, aimed at enhancing productivity and usability.
 
 ## Features
